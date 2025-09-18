@@ -123,3 +123,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any queries or suggestions, please open an issue or contact the maintainers.
+# Plant-Disease-Detector
