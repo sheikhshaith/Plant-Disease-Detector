@@ -97,7 +97,7 @@ The application uses a custom ResNet9 architecture trained on a dataset of plant
 - **Corn**: Cercospora Leaf Spot, Common Rust
 - And more...
 
-## 📦 Deployment
+## Deployment
 
 The application can be deployed using Docker:
 
@@ -120,8 +120,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Dataset: [PlantVillage Dataset](https://plantvillage.psu.edu/)
 - Special thanks to all contributors and open-source projects that made this possible.
 
-## Contact
-
-For any queries or suggestions, please open an issue or contact the maintainers.
-# Plant-Disease-Detector
-# Plant-Disease-Detector
